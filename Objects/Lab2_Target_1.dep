@@ -1,0 +1,31 @@
+Dependencies for Project 'Lab2', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\RCC_STM32.h)(0x69CF7CA2)()
+F (.\RCC_STM32.c)(0x69CF7CA2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/TAIVE/Keil/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/TAIVE/Keil/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="543" -DSTM32F411xE -D_RTE_-o ./objects/rcc_stm32.o -MMD)
+I (RCC_STM32.h)(0x69CF7CA2)
+F (.\SPI.c)(0x69CF7CA2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/TAIVE/Keil/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/TAIVE/Keil/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="543" -DSTM32F411xE -D_RTE_-o ./objects/spi.o -MMD)
+I (SPI.h)(0x69CF7CA2)
+I (RCC_STM32.h)(0x69CF7CA2)
+I (NVIC.h)(0x69CF7CA2)
+F (.\SPI.h)(0x69CF7CA2)()
+F (.\NVIC.c)(0x69CF7CA2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/TAIVE/Keil/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/TAIVE/Keil/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="543" -DSTM32F411xE -D_RTE_-o ./objects/nvic.o -MMD)
+I (NVIC.h)(0x69CF7CA2)
+F (.\NVIC.h)(0x69CF7CA2)()
+F (.\main.c)(0x69CF5977)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/TAIVE/Keil/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/TAIVE/Keil/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="543" -DSTM32F411xE -D_RTE_-o ./objects/main.o -MMD)
+I (RCC_STM32.h)(0x69CF7CA2)
+I (SPI.h)(0x69CF7CA2)
+I (NVIC.h)(0x69CF7CA2)
+F (.\GPIO.c)(0x69CF7CA2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/TAIVE/Keil/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/TAIVE/Keil/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="543" -DSTM32F411xE -D_RTE_-o ./objects/gpio.o -MMD)
+I (GPIO.h)(0x69CF7CA2)
+I (C:\TAIVE\Keil\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x699B4FC2)
+I (C:\TAIVE\Keil\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x699B4FC2)
+I (C:\TAIVE\Keil\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x699B4C96)
+I (C:\TAIVE\Keil\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x699B4FC2)
+I (RCC_STM32.h)(0x69CF7CA2)
+F (.\GPIO.h)(0x69CF7CA2)()
+F (RTE/Device/STM32F411VETx/startup_stm32f411xe.s)(0x699B4FC2)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_Target_1-IC:/TAIVE/Keil/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/TAIVE/Keil/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 543" -Wa,armasm,--pd,"STM32F411xE SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f411xe.o)
+F (RTE/Device/STM32F411VETx/system_stm32f4xx.c)(0x699B4FC2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/TAIVE/Keil/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/TAIVE/Keil/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="543" -DSTM32F411xE -D_RTE_-o ./objects/system_stm32f4xx.o -MMD)
+I (C:\TAIVE\Keil\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x699B4FC2)
+I (C:\TAIVE\Keil\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x699B4FC2)
+I (C:\TAIVE\Keil\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm4.h)(0x699B4C96)
+I (C:\TAIVE\Keil\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x699B4FC2)
